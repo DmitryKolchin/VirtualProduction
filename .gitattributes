@@ -36,3 +36,6 @@ Content/Megascans/3D_Assets/Sandstone_Rocky_Ground_wi3mcjtab/T_SandstoneRockyGro
 Content/Megascans/Surfaces/Skated_Frozen_Lake_td0nfjlr/T_SkatedFrozenLake_td0nfjlr_8K_ORDp.uasset filter=lfs diff=lfs merge=lfs -text
 Content/Megascans/Surfaces/Skated_Frozen_Lake_td0nfjlr/T_Skated_Frozen_Lake_td0nfjlr_8K_D.uasset filter=lfs diff=lfs merge=lfs -text
 Content/Megascans/Surfaces/Skated_Frozen_Lake_td0nfjlr/T_Skated_Frozen_Lake_td0nfjlr_8K_N.uasset filter=lfs diff=lfs merge=lfs -text
+Plugins/VP_VFX/Content/Textures/Ice/T_Skated_Frozen_Lake_td0nfjlr_8K_D.uasset filter=lfs diff=lfs merge=lfs -text
+Plugins/VP_VFX/Content/Textures/Ice/T_Skated_Frozen_Lake_td0nfjlr_8K_N.uasset filter=lfs diff=lfs merge=lfs -text
+Plugins/VP_VFX/Content/Textures/Ice/T_SkatedFrozenLake_td0nfjlr_8K_ORDp.uasset filter=lfs diff=lfs merge=lfs -text
